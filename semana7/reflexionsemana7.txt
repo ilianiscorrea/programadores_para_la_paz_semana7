@@ -1,0 +1,7 @@
+Contar con una plataforma tecnológica que permita registrar y consultar incidencias de manera centralizada es crucial para el empoderamiento y la autogestión de las comunidades. 
+En primer lugar, democratiza el acceso a la información, haciendo que cualquier vecino pueda enterarse de los problemas que afectan a su entorno compartido en tiempo real. 
+Además, al recopilar reportes de forma pública y visible, se genera un sentido de transparencia que sirve como evidencia organizada ante las autoridades o líderes vecinales. 
+Esta herramienta evita la duplicidad de esfuerzos, ya que los ciudadanos pueden verificar si un problema de infraestructura o ambiente ya fue reportado previamente. 
+También fomenta la colaboración mutua, permitiendo que la comunidad se organice para dar solución a aquellas incidencias que pueden resolverse con recursos propios. 
+En conclusión, una API de reportes comunitarios transforma las quejas informales en datos estructurados y accionables, mejorando significativamente la comunicación y la calidad de vida colectiva.
+
